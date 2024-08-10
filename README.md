@@ -11,7 +11,7 @@ I couldn't believe such an important person in the open data world would contact
 
 But that's an issue we can assess in another opportunity.
 
-When Rufus contacted me, I was honored but also intrigued. Then came the interview, and I learned about the DataHub platform. What I understood (at the time) was that a lot of the things I do with data could have been done within DataHub.
+When Rufus contacted me, I was honored but also intrigued. Then came the interview, and I learned about the DataHub platform. What I understood (at the time) was that a lot of the things people usually do with data could have been done within DataHub.
 
 But then I discovered, with practice, that it wasn't a process as automatic as I initially thought. I still had to **clean** and **analyze** datasets outside of the platform. So, I still had to rely on Excel/Google Spreadsheets and, if necessary, Python or R.
 
@@ -23,9 +23,9 @@ I've done articles with a journalistic approach focused on several topics, such 
 
 ## What I love about DataHub
 
-Two things I find great about DataHub, and I always like to emphasize, are the **ease of use** and **version control through GitHub**.
+Two things I find great about DataHub are the **ease of use** and **version control through GitHub**.
 
-It's as easy as uploading all the datasets you need to a previously defined GitHub repository. In the same repository, there will be a README.md file in which you will be able to write the data story and put the components (charts) that will help illustrate your work, using markdown language.
+It's as easy as uploading all the datasets you need to a previously defined GitHub repository. In the same repository, there is a README.md file in which you can write the data story and put the components (charts) that will help illustrate your work using markdown language.
 
 The graphics can be found on the [PortalJS components guide website](https://storybook.portaljs.org/?path=/docs/components-introduction--docs). The available charts are:
  
