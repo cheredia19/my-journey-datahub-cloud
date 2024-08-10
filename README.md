@@ -13,7 +13,7 @@ But that's an issue we can assess in another opportunity.
 
 When Rufus contacted me, I was honored but also intrigued. Then came the interview, and I learned about the DataHub platform. What I understood (at the time) was that a lot of the things I do with data could have been done within DataHub.
 
-But then I discovered, with practice, that it wasn't as automatic a process as I initially thought. I still had to clean and analyze datasets outside of the platform. So, I still relied on Excel/Google Spreadsheets and, if necessary, Python or R.
+But then I discovered, with practice, that it wasn't as automatic a process as I initially thought. I still had to **clean** and **analyze** datasets outside of the platform. So, I still relied on Excel/Google Spreadsheets and, if necessary, Python or R.
 
 Then, something became a frustrating topic in my particular learning curve. My charts weren't shown on the DataHub platform, even though I was doing everything right. It took around two weeks and a couple of video calls with a DataHub developer to figure it out.
 
@@ -25,20 +25,20 @@ I hope to keep having the opportunity to publish many more things on DataHub sin
 
 ## What I love about DataHub
 
-Two things I find great about DataHub, and I always like to emphasize, are the ease of use and version control through GitHub.
+Two things I find great about DataHub, and I always like to emphasize, are the **ease of use** and **version control through GitHub**.
 
 It's as easy as uploading all the datasets you need to a previously defined GitHub repository. In the same repository, there will be a README.md file in which you will be able to write the data story and put the components (charts) that will help illustrate your work, using markdown language.
 
 The graphics can be found on the [PortalJS components guide website](https://storybook.portaljs.org/?path=/docs/components-introduction--docs). The available charts are:
  
-- Catalog (with and without facets)
-- Tabular
-- IFrame
-- PDF Viewer
-- Line
-- Bar (vertical)
-- Vega
-- Map
+- Catalog (with and without facets).
+- Tabular.
+- IFrame.
+- PDF Viewer.
+- Line.
+- Bar (vertical).
+- Vega.
+- Map.
 
 If you make a mistake, you can navigate through the GitHub version control and solve any issue. Also, you can edit any dataset or the README file and commit (save) the changes. It's *that* easy.
 
@@ -46,7 +46,7 @@ If you make a mistake, you can navigate through the GitHub version control and s
 
 Although using DataHub is awesome for data purposes, I encountered some challenges I had to overcome while working with the platform. However, I understand this is perfectly normal when working on dynamic and incremental platforms.
 
-For example, the FlatUITable component, ideal for tables, is designed to take the first column as the index column, which means the component will sort the data by the first column.
+For example, the **FlatUITable** component, ideal for tables, is designed to take the first column as the index column, which means the component will sort the data by the first column.
 
 The detail is that sometimes we want to sort the data referencing to another column and not in ascending order as it is preset.
 
@@ -54,7 +54,7 @@ Given this scenario, I discovered that you have two alternatives: set a first in
 
 Another issue I found is that Spanish speakers (like me) usually separate decimals with a comma. If you work with comma-separated values in your dataset, it will corrupt the file. That's why it's so important to **use a dot instead of a comma** when working with numbers like English speakers naturally do. Besides, the system interprets the dot as the separator between integers and decimals, not the comma.
 
-A similar thing happens with dates. DataHub uses the format DD/MM/YYYY instead of the MM/DD/YYYY Americans use. The thing is that many datasets come with the American format. So I had to be aware of this every time a dataset includes a date field.
+A similar thing happens with dates. DataHub uses the format **DD/MM/YYYY** instead of the **MM/DD/YYYY** Americans use. The thing is that many datasets come with the American format. So I had to be aware of this every time a dataset includes a date field.
 
 An issue not related to data formatting comes when you update a dataset. It turns out that the web page doesn't show the updated values. How do I overcome this? I update **and rename** the dataset and then replace, on the README.md file, the name of the old dataset with the new one where it corresponds.
 
