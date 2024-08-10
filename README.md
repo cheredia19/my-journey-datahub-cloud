@@ -17,3 +17,5 @@ When Rufus contacted me, I was honored but also intrigued. Then came the intervi
 But then I discovered, with practice, that it wasn't as automatic a process as I initially thought. I still had to process data sets outside of the platform. So, I still relied on Excel/Google Spreadsheets and, if necessary, Python or R.
 
 Then, something became a frustrating topic in my particular learning curve. My charts didn't show on the DataHub platform, even though I was doing everything right. It took around two weeks and a couple of video calls with a DataHub developer to figure it out.
+
+Since then, I've done journalistic articles focused on several topics, from [the 50 most followed YouTube channels](https://datahub.io/@cheredia19/50-yt-channels-most-subscribers), or [the 100 worst movies according to Rotten Tomatoes](https://datahub.io/@cheredia19/100-worst-movies-all-time-by-rt), to [data analysis of the Paris Olympic Games](https://datahub.io/@cheredia19/paris-2024-osg-athletes), or [the state of press freedom in the world by 2024](https://datahub.io/@cheredia19/press-freedom-2024).
