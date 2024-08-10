@@ -24,6 +24,6 @@ I've done journalistic articles focused on several topics, such as [the 50 most 
 
 I hope to keep having the opportunity to publish many more things on DataHub since it's a platform I enjoy using.
 
-Two things I think are great about DataHub, and I always like to emphasize, are the ease of use and version control through GitHub.
+Two things I find great about DataHub, and I always like to emphasize, are the ease of use and version control through GitHub.
 
-It is as easy as uploading all the datasets you need to a previously defined GitHub repository. In the same repository, there will be a README.md file in which you will be able to write the data story and put the charts that will help illustrate your work. 
+It is as easy as uploading all the datasets you need to a previously defined GitHub repository. In the same repository, there will be a README.md file in which you will be able to write the data story and put the components (charts) that will help illustrate your work. 
