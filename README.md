@@ -68,4 +68,4 @@ It would also be interesting to be able to format chart components in terms of c
 
 ## Summary
 
-I see a great potential in the usage of DataHub for data lovers (like me). I'm proud of being able to use this innovative platform and to contribute to its growth, mainly because it means I also grow up as a data professional. I hope to keep having the opportunity to publish many more things on DataHub since it's a platform I really enjoy using.
+I see a great potential in the usage of DataHub for data lovers (like me). I'm proud of being able to use this innovative platform and to contribute to its growth, mainly because it means I also grow up as a data professional. I hope to keep having the opportunity to publish many more things on DataHub since it's a platform I enjoy using.
