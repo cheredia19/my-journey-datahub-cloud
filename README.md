@@ -19,3 +19,9 @@ But then I discovered, with practice, that it wasn't as automatic a process as I
 Then, something became a frustrating topic in my particular learning curve. My charts didn't show on the DataHub platform, even though I was doing everything right. It took around two weeks and a couple of video calls with a DataHub developer to figure it out.
 
 Since then, I've done journalistic articles focused on several topics, such as [the 50 most followed YouTube channels](https://datahub.io/@cheredia19/50-yt-channels-most-subscribers), the [100 worst movies according to Rotten Tomatoes](https://datahub.io/@cheredia19/100-worst-movies-all-time-by-rt), [data analysis of the Paris Olympic Games](https://datahub.io/@cheredia19/paris-2024-osg-athletes), or [the state of press freedom in the world by 2024](https://datahub.io/@cheredia19/press-freedom-2024), among others.
+
+I hope to keep having the opportunity to publish many more things on DataHub since it's a platform I enjoy using.
+
+Two things I think are great about DataHub, and I always like to emphasize, are the ease of use and version control through GitHub.
+
+It is as easy as uploading all the datasets you need to a previously defined GitHub repository. In the same repository, there will be a README.md file in which you will be able to write the data story and put the charts that will help illustrate your work. 
