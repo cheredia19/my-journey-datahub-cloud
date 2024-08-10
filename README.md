@@ -14,19 +14,19 @@ But that's an issue we can assess in another opportunity.
 
 When Rufus contacted me, I was honored but also intrigued. Then came the interview, and I learned about the DataHub platform. What I understood (at the time) was that a lot of the things I do with data could have been done within DataHub.
 
-But then I discovered, with practice, that it wasn't as automatic a process as I initially thought. I still had to process data sets outside of the platform. So, I still relied on Excel/Google Spreadsheets and, if necessary, Python or R.
+But then I discovered, with practice, that it wasn't as automatic a process as I initially thought. I still had to clean and analyze datasets outside of the platform. So, I still relied on Excel/Google Spreadsheets and, if necessary, Python or R.
 
-Then, something became a frustrating topic in my particular learning curve. My charts didn't show on the DataHub platform, even though I was doing everything right. It took around two weeks and a couple of video calls with a DataHub developer to figure it out.
+Then, something became a frustrating topic in my particular learning curve. My charts weren't shown on the DataHub platform, even though I was doing everything right. It took around two weeks and a couple of video calls with a DataHub developer to figure it out.
 
 Since then, my journey with DataHub has been *easy peasy*. 
 
 I've done journalistic articles focused on several topics, such as [the 50 most followed YouTube channels](https://datahub.io/@cheredia19/50-yt-channels-most-subscribers), the [100 worst movies according to Rotten Tomatoes](https://datahub.io/@cheredia19/100-worst-movies-all-time-by-rt), [data analysis of the Paris Olympic Games](https://datahub.io/@cheredia19/paris-2024-osg-athletes), or [the state of press freedom in the world by 2024](https://datahub.io/@cheredia19/press-freedom-2024), among others.
 
-I hope to keep having the opportunity to publish many more things on DataHub since it's a platform I enjoy using.
+I hope to keep having the opportunity to publish many more things on DataHub since it's a platform I really enjoy using.
 
 Two things I find great about DataHub, and I always like to emphasize, are the ease of use and version control through GitHub.
 
-It is as easy as uploading all the datasets you need to a previously defined GitHub repository. In the same repository, there will be a README.md file in which you will be able to write the data story and put the components (charts) that will help illustrate your work, using markdown language.
+It's as easy as uploading all the datasets you need to a previously defined GitHub repository. In the same repository, there will be a README.md file in which you will be able to write the data story and put the components (charts) that will help illustrate your work, using markdown language.
 
 The graphics can be found on the [PortalJS components guide website](https://storybook.portaljs.org/?path=/docs/components-introduction--docs). The available charts are:
  
@@ -47,9 +47,9 @@ For example, the FlatUITable component, ideal for tables, is designed to take th
 
 The detail is that sometimes we want to sort the data referencing to another column and not in ascending order as it is preset.
 
-In this scenario, I discovered that you have two alternatives: set a first index column in your dataset or put as the first column the field you would like to sort the data with.
+Given this scenario, I discovered that you have two alternatives: set a first index column in your dataset or put as the first column the field you would like to sort the data with.
 
-Another issue I found is that Spanish speakers (like) me usually separate decimals with a comma. If you work with comma-separated values in your dataset, it will corrupt the file. That's why it's so important to **use a dot instead of a comma** when working with numbers like English speakers naturally do. Besides, the system interprets the dot as the separator between integers and decimals, not the comma.
+Another issue I found is that Spanish speakers (like me) usually separate decimals with a comma. If you work with comma-separated values in your dataset, it will corrupt the file. That's why it's so important to **use a dot instead of a comma** when working with numbers like English speakers naturally do. Besides, the system interprets the dot as the separator between integers and decimals, not the comma.
 
 A similar thing happens with dates. DataHub uses the format DD/MM/YYYY instead of the MM/DD/YYYY Americans use. The thing is that many datasets come with the American format. So I had to be aware of this every time a dataset includes a date field.
 
