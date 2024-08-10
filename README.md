@@ -52,7 +52,7 @@ Faced with this scenario, I found that I had two alternatives: set a first index
 
 Another issue I found is that **Spanish speakers (like me) usually separate decimals with a comma**. If you work with comma-separated values in your dataset, it will corrupt the file. That's why it's so important to **use a dot instead of a comma** when working with numbers like English speakers naturally do. Besides, the system interprets the dot as the default separator between integers and decimals.
 
-A similar thing happens with dates. DataHub uses the **DD/MM/YYYY** format instead of the **MM/DD/YYYY** Americans use. The thing is that many datasets come with the American format. So I had to be aware of this every time a dataset includes a date field.
+A similar thing happens with dates. DataHub uses the **DD/MM/YYYY** format instead of the **MM/DD/YYYY** Americans use. The thing is that many datasets come with the American format. I'm aware of this every time a dataset includes a date field.
 
 An issue not related to data formatting comes when you update a dataset. It turns out that the DataHub Cloud doesn't show the updated values. How do I overcome this? I update **and rename** the dataset and then replace, on the README.md file, the name of the old dataset with the new one where it corresponds.
 
