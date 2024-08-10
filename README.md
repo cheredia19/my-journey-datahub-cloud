@@ -26,4 +26,17 @@ I hope to keep having the opportunity to publish many more things on DataHub sin
 
 Two things I find great about DataHub, and I always like to emphasize, are the ease of use and version control through GitHub.
 
-It is as easy as uploading all the datasets you need to a previously defined GitHub repository. In the same repository, there will be a README.md file in which you will be able to write the data story and put the components (charts) that will help illustrate your work. 
+It is as easy as uploading all the datasets you need to a previously defined GitHub repository. In the same repository, there will be a README.md file in which you will be able to write the data story and put the components (charts) that will help illustrate your work, using markdown language.
+
+The graphics can be found on the [PortalJS components guide website](https://storybook.portaljs.org/?path=/docs/components-introduction--docs). The available charts are:
+ 
+- Catalog (with and without facets)
+- Tabular
+- IFrame
+- PDF Viewer
+- Line
+- Bar (vertical)
+- Vega
+- Map
+
+If you make a mistake, you can navigate through the GitHub version control and solve any issue. Also, you can edit any dataset or the README file and commit (save) the changes. It's *that* easy.
