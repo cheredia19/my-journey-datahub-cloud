@@ -64,7 +64,7 @@ A component I haven't explored yet and I'm sure it will improve the quality of m
 
 For future developments of DataHub, I would like to use components that are not currently available like **horizontal bar charts**, line charts with more than one field (line, or y-axis), or **scatter plots**, to mention just three specific examples. The latter is ideal for graphic relationships between two numeric variables, e.g. the correlation between gross domestic product and life expectancy.
 
-It would also be interesting to be able to format chart components in terms of color (at the moment it only shows blue), the thickness of the bar or line, and the possibility of incorporating features like a legend, a summary beyond the title of the chart or mentioning the source of the data in the footer.
+It would also be interesting to format chart components in terms of color (it only shows blue at the moment), the thickness of the bar or line, and the possibility of incorporating features like a legend, a summary beyond the title of the chart or mentioning the source of the data in the footer.
 
 ## Summary
 
