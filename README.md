@@ -41,10 +41,14 @@ The graphics can be found on the [PortalJS components guide website](https://sto
 
 If you make a mistake, you can navigate through the GitHub version control and solve any issue. Also, you can edit any dataset or the README file and commit (save) the changes. It's *that* easy.
 
-Although using DataHub is awesome for data purposes, I have encountered some challenges while working with the platform. However, I understand this is perfectly normal when working on dynamic and incremental platforms.
+Although using DataHub is awesome for data purposes, I encountered some challenges I had to overcome while working with the platform. However, I understand this is perfectly normal when working on dynamic and incremental platforms.
 
 For example, the FlatUITable component, ideal for tables, is designed to take the first column as the index column, which means the component will sort the data by the first column.
 
 The detail is that sometimes we want to sort the data referencing to another column and not in ascending order as it is preset.
 
 In this scenario, I discovered that you have two alternatives: set a first index column in your dataset or put as the first column the field you would like to sort the data with.
+
+Another issue I found is that Spanish speakers like me usually separate decimals with a comma. If you work with comma-separated values in your dataset, it will corrupt the file. That's why it's so important to **use a dot instead of a comma** when working with numbers like English speakers naturally do. Besides, the system interprets the dot as the separator between integers and decimals, not the comma.
+
+
