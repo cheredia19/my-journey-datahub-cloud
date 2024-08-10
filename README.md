@@ -5,7 +5,6 @@ description: 'A personal narrative of my evolution in publishing data stories on
 
 *By [César Heredia](https://x.com/cahered), data journalist*
 
-
 My journey with DataHub Cloud began in April 2024 when **Rufus Pollock** contacted me through Upwork. My profile there says I'm a data journalist, so I think it clicked on him. At the time, I didn't know who Pollock was. When I Googled his name, I found out. 
 
 I couldn't believe such an important person in the data world would contact this humble Venezuelan who uses data for journalistic purposes. Also, considering that Venezuela is not exactly known for its open data policies. *Au contraire*. It's hard to work with data in my country because of the lack of open and updated datasets. So, data people have to either build their data or look for datasets on foreign websites and NGOs.
@@ -24,6 +23,8 @@ I've done journalistic articles focused on several topics, such as [the 50 most 
 
 I hope to keep having the opportunity to publish many more things on DataHub since it's a platform I really enjoy using.
 
+## What I love about DataHub
+
 Two things I find great about DataHub, and I always like to emphasize, are the ease of use and version control through GitHub.
 
 It's as easy as uploading all the datasets you need to a previously defined GitHub repository. In the same repository, there will be a README.md file in which you will be able to write the data story and put the components (charts) that will help illustrate your work, using markdown language.
@@ -41,6 +42,8 @@ The graphics can be found on the [PortalJS components guide website](https://sto
 
 If you make a mistake, you can navigate through the GitHub version control and solve any issue. Also, you can edit any dataset or the README file and commit (save) the changes. It's *that* easy.
 
+## What I'd improve
+
 Although using DataHub is awesome for data purposes, I encountered some challenges I had to overcome while working with the platform. However, I understand this is perfectly normal when working on dynamic and incremental platforms.
 
 For example, the FlatUITable component, ideal for tables, is designed to take the first column as the index column, which means the component will sort the data by the first column.
@@ -56,3 +59,9 @@ A similar thing happens with dates. DataHub uses the format DD/MM/YYYY instead o
 An issue not related to data formatting comes when you update a dataset. It turns out that the web page doesn't show the updated values. How do I overcome this? I update **and rename** the dataset and then replace, on the README.md file, the name of the old dataset with the new one where it corresponds.
 
 A thing it would be nice to improve is related to SEO formatting. When someone clicks on a link, it takes you out of the DataHub page and loads the new page. **It should open in a new tab**.
+
+## What I expect for the future
+
+For future developments of DataHub, I would like to use components that are not currently available like horizontal bar charts, line charts with more than one field (line), or scatter plots, to mention just three specific examples. The latter is ideal for graphic relationships between two numeric variables, e.g. the correlation between GDP and life expectancy.
+
+It would also be interesting to be able to format chart components in terms of color (at the moment it only shows blue), the thickness of the bar or line, and the possibility of incorporating a legend, a summary beyond the title of the chart or mentioning the source of the data in the footer.
