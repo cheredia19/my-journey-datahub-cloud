@@ -6,7 +6,7 @@ description: 'A personal narrative of my evolution in publishing data stories on
 *By [César Heredia](https://x.com/cahered), data journalist*
 
 
-My journey with DataHub Cloud began in April 2024 when Rufus Pollock contacted me through Upwork. My profile there says I'm a data journalist, so I think it clicked on him. At the time, I didn't know who Pollock was. When I Googled his name, I found out. 
+My journey with DataHub Cloud began in April 2024 when **Rufus Pollock** contacted me through Upwork. My profile there says I'm a data journalist, so I think it clicked on him. At the time, I didn't know who Pollock was. When I Googled his name, I found out. 
 
 I couldn't believe such an important person in the data world would contact this humble Venezuelan who uses data for journalistic purposes. Also, considering that Venezuela is not exactly known for its open data policies. *Au contraire*. It's hard to work with data in my country because of the lack of open and updated datasets. So, data people have to either build their data or look for datasets on foreign websites and NGOs.
 
@@ -53,3 +53,4 @@ Another issue I found is that Spanish speakers (like) me usually separate decima
 
 Similarly happens with dates. DataHub uses the format DD/MM/YYYY instead of the MM/DD/YYYY Americans use. The thing is that many datasets come with the American format. So I had to be aware of this every time a dataset includes a date field.
 
+An issue not related to data formatting comes when you update a dataset. It turns out that the web page doesn't show the updated values. How do I overcome this? I update **and rename** the dataset and then replace, on the README.md file, the name of the old dataset with the new one where it corresponds.
