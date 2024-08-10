@@ -58,7 +58,7 @@ An issue not related to data formatting comes when you update a dataset. It turn
 
 A thing it would be nice to improve is related to SEO formatting. When someone clicks on a link, it takes you out of the DataHub page and loads the new page. **It should open in a new tab**.
 
-A component I haven't explored yet and I'm sure it will improve the quality of my reports is the [GeoJSON points map](https://storybook.portaljs.org/?path=/story/components-geospatial-map--geo-json-points). I expect to use it shortly. I will tell you later how was my learning curve with this type of chart.
+A component I haven't explored yet and I'm sure it will improve the quality of my reports is the [GeoJSON points map](https://storybook.portaljs.org/?path=/story/components-geospatial-map--geo-json-points). I expect to use it shortly. I will tell you later how my learning curve was with this type of chart.
 
 ## What's missing on DataHub?
 
