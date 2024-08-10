@@ -65,3 +65,5 @@ A thing it would be nice to improve is related to SEO formatting. When someone c
 For future developments of DataHub, I would like to use components that are not currently available like horizontal bar charts, line charts with more than one field (line), or scatter plots, to mention just three specific examples. The latter is ideal for graphic relationships between two numeric variables, e.g. the correlation between GDP and life expectancy.
 
 It would also be interesting to be able to format chart components in terms of color (at the moment it only shows blue), the thickness of the bar or line, and the possibility of incorporating a legend, a summary beyond the title of the chart or mentioning the source of the data in the footer.
+
+A component I haven't explored yet and I'm sure it will improve the quality of my reports is the [GeoJSON points map](https://storybook.portaljs.org/?path=/story/components-geospatial-map--geo-json-points). I expect to use it shortly. I will tell you later how my learning curve was with this type of chart.
