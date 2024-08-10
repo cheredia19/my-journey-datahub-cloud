@@ -49,6 +49,7 @@ The detail is that sometimes we want to sort the data referencing to another col
 
 In this scenario, I discovered that you have two alternatives: set a first index column in your dataset or put as the first column the field you would like to sort the data with.
 
-Another issue I found is that Spanish speakers like me usually separate decimals with a comma. If you work with comma-separated values in your dataset, it will corrupt the file. That's why it's so important to **use a dot instead of a comma** when working with numbers like English speakers naturally do. Besides, the system interprets the dot as the separator between integers and decimals, not the comma.
+Another issue I found is that Spanish speakers (like) me usually separate decimals with a comma. If you work with comma-separated values in your dataset, it will corrupt the file. That's why it's so important to **use a dot instead of a comma** when working with numbers like English speakers naturally do. Besides, the system interprets the dot as the separator between integers and decimals, not the comma.
 
+Similarly happens with dates. DataHub uses the format DD/MM/YYYY instead of the MM/DD/YYYY Americans use. The thing is that many datasets come with the American format. So I had to be aware of this every time a dataset includes a date field.
 
