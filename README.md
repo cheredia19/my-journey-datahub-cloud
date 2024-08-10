@@ -41,9 +41,9 @@ The graphics can be found on the [PortalJS components guide website](https://sto
 
 If you make a mistake, you can navigate through the GitHub version control and solve any issue. Also, you can edit any dataset or the README file and commit (save) the changes. It's *that* easy.
 
-However using DataHub is amazing for data purposes, I have found some challenges. I understand it's perfectly normal when you work in dynamic, incremental platforms.
+Although using DataHub is awesome for data purposes, I have encountered some challenges while working with the platform. However, I understand this is perfectly normal when working on dynamic and incremental platforms.
 
-For example, the FlatUITable component, ideal for tables, is designed to take the first column as the index column. It means the component will sort the data by the first column.
+For example, the FlatUITable component, ideal for tables, is designed to take the first column as the index column, which means the component will sort the data by the first column.
 
 The detail is that sometimes we want to sort the data referencing to another column and not in ascending order as it is preset.
 
