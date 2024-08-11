@@ -46,9 +46,9 @@ Although using DataHub is awesome for data purposes, I encountered some challeng
 
 For example, the **FlatUITable** component, ideal for tables, is designed to take the first column as the index column, which means the component will sort the data by the first column.
 
-The detail is that sometimes we want to sort the data referencing to another column and not in ascending order as it is preset.
+The detail is that sometimes we want to sort the data referencing to another column and not in descending order (numbers) or from A to Z as it is preset.
 
-Faced with this scenario, I found that I had two alternatives: set a first index column in your dataset or put the field I would like to sort the data by in the first column.
+Faced with this scenario, I found that I had two alternatives: set a first index column in your dataset or **put the field I would like to sort the data by in the first column**.
 
 Another issue I found is that **Spanish speakers (like me) usually separate decimals with a comma**. If you work with comma-separated values in your dataset, it will corrupt the file. That's why it's so important to **use a dot instead of a comma** when working with numbers like English speakers naturally do. Besides, the system interprets the dot as the default separator between integers and decimals.
 
