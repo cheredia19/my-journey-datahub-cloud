@@ -38,7 +38,7 @@ The graphics can be found on the [PortalJS components guide website](https://sto
 - Vega.
 - Map.
 
-If you make a mistake, you can navigate through the GitHub version control and solve any issue. Also, you can edit any dataset or the README file and commit (save) the changes. It's *that* easy.
+If I make a mistake, I navigate through the GitHub version control and solve any issue. Also, I can edit any dataset or the README file and commit (save) the changes. It's *that* easy.
 
 ## What I'd improve
 
@@ -46,7 +46,7 @@ Although using DataHub is awesome for data purposes, I encountered some challeng
 
 For example, the **FlatUITable** component, ideal for tables, is designed to take the first column as the index column, which means the component will sort the data by the first column.
 
-The detail is that sometimes we want to sort the data referencing to another column and not in descending order (numbers) or from A to Z as it is preset.
+The detail is that sometimes I want to sort the data referencing to another column and not in descending order (numbers) or from A to Z as it is preset.
 
 Faced with this scenario, I found that I had two alternatives: set a first index column in your dataset or **put the field I would like to sort the data by in the first column**.
 
@@ -54,7 +54,7 @@ Another issue I found is that **Spanish speakers (like me) usually separate deci
 
 A similar thing happens with dates. DataHub uses the **DD/MM/YYYY** format instead of the **MM/DD/YYYY** Americans use. The thing is that many datasets come with the American format. I'm aware of this every time a dataset includes a date field.
 
-An issue not related to data formatting comes when you update a dataset. It turns out that the DataHub Cloud doesn't show the updated values. How do I overcome this? I update **and rename** the dataset and then replace, on the README.md file, the name of the old dataset with the new one where it corresponds.
+An issue not related to data formatting comes when I update a dataset. It turns out that the DataHub Cloud doesn't show the updated values. How do I overcome this? I update **and rename** the dataset and then replace, on the README.md file, the name of the old dataset with the new one where it corresponds.
 
 A thing it would be nice to improve is related to SEO formatting. When someone clicks on a link, it takes you out of the DataHub page and loads the new page. **It should open in a new tab**.
 
@@ -62,10 +62,10 @@ A component I haven't explored yet and I'm sure it will improve the quality of m
 
 ## What do I think is missing on DataHub?
 
-For future developments of DataHub, I would like to use components that are not currently available such as **horizontal bar charts**, line charts with over one line, or **scatter plots**, to mention just three specific examples. The latter is ideal for graphic relationships between two numeric variables, e.g., the correlation between gross domestic product and life expectancy.
+For future developments of DataHub, I would like to use components that are not currently available such as **horizontal bar charts**, line charts with over one line, **stacked bar charts**, or **scatter plots**, just to mention four specific examples. The latter is ideal for graphic relationships between two numeric variables, e.g., the correlation between gross domestic product and life expectancy.
 
 It would also be interesting to format chart components in terms of color (it only shows blue at the moment), the thickness of the bar or line, and the possibility of incorporating features like a legend, a summary beyond the title of the chart or mentioning the source of the data in the footer.
 
 ## Summary
 
-I see great potential in DataHub Cloud for data lovers (like me). I'm proud of using this innovative platform for my data stories and contributing to its growth. I hope to keep having the opportunity to publish many more things on DataHub since it's a platform I enjoy.
+I see great potential in DataHub Cloud for data lovers (like me). I'm proud of using this innovative platform for my data stories/insights while contributing to its growth. I hope to keep having the opportunity to publish many more things on DataHub since it's a platform I really enjoy.
