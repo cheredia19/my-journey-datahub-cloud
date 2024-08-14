@@ -56,8 +56,6 @@ A similar thing happens with dates. DataHub uses the **DD/MM/YYYY** format inste
 
 An issue not related to data formatting comes when I update a dataset. It turns out that the DataHub Cloud doesn't show the updated values. How do I overcome this? I update **and rename** the dataset and then replace, on the README.md file, the name of the old dataset with the new one where it corresponds.
 
-A thing it would be nice to improve is related to SEO formatting. When someone clicks on a link, it takes you out of the DataHub page and loads the new page. **It should open in a new tab**.
-
 A component I haven't explored yet and I'm sure it will improve the quality of my reports is the [GeoJSON points map](https://storybook.portaljs.org/?path=/story/components-geospatial-map--geo-json-points). I expect to use it shortly. It's a personal debt with the DataHub platform.
 
 ## What do I think is missing on DataHub?
